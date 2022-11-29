@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+}
+.cName{
+  font-size: 2rem;
+  color: tomato;
+  font-weight: bold;
+}
+
+.main{
+  margin: auto;
+  background-color: #ACE3EA;
+  width: 50%;
+  border-radius: 10px;
+  padding: 50px;
+  margin-top: 50px;
+}
+h1{
+  color: red;
+}
+h2{
+  color: gray
+}
+input[type=text] {
+  width: 50%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+
+
